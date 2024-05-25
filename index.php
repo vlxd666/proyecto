@@ -10,7 +10,8 @@
 <body>
    <div class="">
        <div>
-           
+           <h1>Primer receta</h1>
+           <h2>aasdfgasfh</h2>
        </div>
    </div>
 </body>
