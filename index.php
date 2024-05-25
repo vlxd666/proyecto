@@ -8,7 +8,7 @@
     <title>De la cocina al corazón</title>
 </head>
 <body>
-   <div class="contenedor">
+   <div class="conten">
        
    </div>
 </body>
