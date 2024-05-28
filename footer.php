@@ -1,26 +1,24 @@
-<footer>
-        <div class="footer-content">
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque, dicta, amet doloremque ut ipsum iusto odit hic maxime optio nostrum architecto, quis quasi perspiciatis nulla aliquam quo. Eos, iusto sunt?
-            Quis totam odit nesciunt, minus repellendus cum voluptates aliquam impedit reiciendis labore pariatur explicabo, corporis vel eius minima officiis quia, dolore accusantium modi. Velit fuga ipsa accusamus repudiandae sunt atque!
-            Facilis ratione nemo aperiam? A quisquam esse ipsum, laborum culpa voluptate nemo non, illo velit sint dolor iure voluptates quia aspernatur. Iusto expedita vel delectus magni tempora facere facilis dolorum.
-            Fugit, officia, exercitationem reiciendis repudiandae nisi officiis dicta culpa reprehenderit provident maiores soluta amet cupiditate error incidunt suscipit quidem minima doloremque praesentium aliquid. Mollitia asperiores officiis adipisci tenetur blanditiis. Maiores.
-            Officia veritatis, est qui officiis voluptates soluta ducimus perspiciatis alias architecto impedit placeat cupiditate incidunt expedita nisi numquam. Quod blanditiis culpa assumenda quo id autem tempore quis non vitae aliquam!
-            Deleniti at repellendus iure, quis, autem dolores tenetur consequuntur a in, sed deserunt assumenda praesentium beatae ipsa commodi architecto ea reiciendis quas ad delectus soluta eligendi sint ipsam! Sunt, illo?
-            Commodi nemo et eos eveniet doloremque, iusto ex aliquid quo. Iste itaque voluptatum rerum ipsam praesentium optio quia nihil nesciunt quas dignissimos harum, magnam omnis facere quibusdam ex porro non!
-            Error aperiam nisi quia voluptatem velit esse modi, ipsum perferendis numquam placeat fugiat sapiente at libero reiciendis facere quibusdam tempore quasi tenetur ducimus dignissimos deleniti quod maxime delectus id. Eligendi!
-            Atque, non ea mollitia excepturi minus facere ex illo modi commodi, deleniti sed eum ipsa quos vel quae porro ratione quis molestias veritatis suscipit cum nobis at? Quia, doloribus aliquam.
-            Suscipit, obcaecati! Assumenda ad quia numquam dolor ratione debitis ab magni, ex deserunt qui laborum, a minus labore iusto fugiat officia aliquid impedit molestiae alias, consequatur distinctio architecto? Repellat, magnam.</p>
-            <ul class="social-icons">
-              <li><a class="facebook" href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-              <li><a class="twitter" href="https://x.com"><i class="fa fa-twitter"></i></a></li>
-              <li><a class="dribbble" href="https://dribbble.com"><i class="fa fa-dribbble"></i></a></li>
-              <li><a class="linkedin" href="https://ec.linkedin.com"><i class="fa fa-linkedin"></i></a></li>   
-            </ul>
-            <ul class="payment-methods">
-                <li><i class="fa fa-cc-visa"></i></li>
-                <li><i class="fa fa-cc-mastercard"></i></li>
-                <li><i class="fa fa-cc-paypal"></i></li>
-                <li><i class="fa fa-cc-amex"></i></li>
-            </ul>
+<footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>LA ESPIGA DORADA</h3>
+                <p style="text-align: left;">En colaboración con agricultores ecológicos de nuestra comunidad, quienes están recuperando variedades autóctonas de cultivos tradicionales en nuestra región, obtenemos cereales sin mejoras ni modificaciones, de una calidad excepcional.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Localización & Contacto</h3>
+                <p><i class="fas fa-map-marker-alt"></i> Via guaranda calle principal (Santa Rosa)</p>
+                <p><i class="fas fa-envelope"></i> laespigadorada@gmail.com</p>
+                <p><i class="fas fa-phone"></i> +593 981741677</p>
+            </div>
+            <div class="footer-section">
+                <img src="img\iconpestaña.png" alt="" width="">
+            </div>
+            <div class="footer-section">
+                <h3>Ubicación</h3>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3877.252973944597!2d-78.61312348473891!3d-0.9337538993013368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44de0e1a67c65%3A0x6e4ae716bfc1a7d4!2sAv.%20Los%20Shyris%20%26%20Rumiahui%2C%20Ambato%2C%20Ecuador!5e0!3m2!1sen!2s!4v1598016542540!5m2!1sen!2s" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2024, The vlad's - LA ESPIGA DORADA™</p>
         </div>
     </footer>
