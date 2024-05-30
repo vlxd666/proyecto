@@ -319,6 +319,43 @@ nav {
   .top-bar a {
       margin-bottom: 10px;
   }
+  /* Nosotros */
+  .banner-pan{
+  background-image:url("imagenes/pan.jpg");
+  height: 300px;
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
+
+.banner-pan h2{
+  color: white;
+  padding:8% 0 0 0;
+}
+
+.cont-nosotros{
+  display:flex;
+  padding:2% 0 0 0;
+}
+
+.foto{
+  width:50%;
+}
+
+.foto img{
+  width:90%;
+  padding:5%;
+}
+
+.texto{
+  width:50%;
+  padding:3% 5% 5% 5%;
+}
+
+.texto p{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #010101;
+  font-size: 17px;
+}
 
   .social-icons {
       justify-content: center;
