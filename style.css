@@ -199,6 +199,133 @@ nav {
     color: #888;
 }
 
+/* Index */
+
+.index-cont{
+    height: auto;
+}
+
+.index-fondo{
+    background-image: url(imagenes/panfondo.jpg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.index-fondo h3{
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.index-fondo h2{
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    font-size: 80px;
+    padding: 10px;
+}
+
+.index-info{
+    height: auto;
+    display: flex;
+}
+
+.index-info img{
+    padding: 50px;
+    width: 70%;
+}
+
+.info-foto{
+    padding: 25px;
+    width: 50%;
+}
+
+.info{
+    padding: 60px;
+    width: 50%;
+}
+
+.info h2{
+    font-size: 25px;
+    color: black;
+    font-family:serif;
+}
+
+.info h3{
+    padding-top: 25px;
+    font-size: 20px;
+    color: dimgray;
+    font-family:sans-serif;
+}
+
+.index-cont h1{
+    padding-top: 100px;
+    text-align: center;
+    font-family:serif;
+    font-size: 35px;
+    color: dimgray;
+}
+
+.index-info2{
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+
+.img-proc
+{
+    width: 25%;
+    padding: 1%
+}
+
+.img-proc img{
+    width: 100%;
+}
+
+.img-proc h2{
+    font-size: 25px;
+    color: black;
+    font-family:serif;
+}
+
+.index-info2-cont{
+    width: 80%;
+}
+
+.index-info2 img{
+    width: 100%;
+}
+
+.info-foto2{
+    padding: 10px;
+    width: 50%;
+}
+
+.info2{
+
+    width: 50%;
+}
+
+.info2 h2{
+    padding: 5%;
+    font-size: 25px;
+    color: black;
+    font-family:serif;
+    background-color: bisque;
+}
+
+.info2 h3{
+    padding: 10%;
+    font-size: 20px;
+    color: dimgray;
+    font-family:sans-serif;
+    background-color: bisque;
+}
+
+/* Final Index */
 
 /* REsponsive */
 
